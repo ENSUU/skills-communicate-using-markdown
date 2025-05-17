@@ -55,6 +55,13 @@ var myVar = "Hello, world!";
 var myVar = "Hello, world!";
 ```
 
+#### My added code block 
+``` java
+public static void main(String[] args) {
+  System.out.println("Hello World!"); 
+}
+```
+
 ### :keyboard: Activity: Adding a code example
 
 1. As you did before, edit the file in this pull request.
