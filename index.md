@@ -6,3 +6,11 @@
 ###### This is a h6 header 
 
 ![Gif of Dog Swimming](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhiMzgxZzR4aGpodHRobDhpZHN4NjI2M2ptb3l1aWIxZ2prbnZ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkIet63SWUJa0/giphy.gif)
+
+
+#### My added code block 
+``` java
+public static void main(String[] args) {
+  System.out.println("Hello World!"); 
+}
+```
